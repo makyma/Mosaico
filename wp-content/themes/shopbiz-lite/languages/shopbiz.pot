@@ -1,0 +1,572 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: shopbiz\n"
+"POT-Creation-Date: 2017-02-21 09:49+0530\n"
+"PO-Revision-Date: 2017-02-21 09:49+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: C:\\xampp\\htdocs\\wordpress\\wp-content\\themes\\new-"
+"shopbiz-lite\n"
+"X-Poedit-SearchPath-0: C:\\xampp\\htdocs\\wordpress\\wp-content\\themes\\new-"
+"shopbiz-lite\n"
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\new-shopbiz-lite/404.php:17
+msgid "404"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\new-shopbiz-lite/404.php:39
+msgid "Go Back"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\new-shopbiz-lite/archive.php:22
+#, php-format
+msgid "Tag Archives: %s"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\new-shopbiz-lite/archive.php:26
+msgid "Daily Archives:"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\new-shopbiz-lite/archive.php:28
+msgid "Monthly Archives:"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\new-shopbiz-lite/archive.php:30
+msgid "Yearly Archives:"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\new-shopbiz-lite/archive.php:32
+msgid "Blog Archives"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\new-shopbiz-lite/archive.php:59
+msgid "<i class=\"fa fa-long-arrow-left\"></i>"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\new-shopbiz-lite/archive.php:60
+msgid "<i class=\"fa fa-long-arrow-right\"></i>"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\new-shopbiz-lite/comments.php:2
+msgid ""
+"This post is password protected. Enter the password to view any comments."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\new-shopbiz-lite/comments.php:14
+msgid "Reply"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\new-shopbiz-lite/comments.php:29
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\new-shopbiz-lite/comments.php:44
+msgid "Comment navigation"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\new-shopbiz-lite/comments.php:45
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\new-shopbiz-lite/comments.php:46
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\new-shopbiz-lite/comments.php:56
+msgid "You must be"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\new-shopbiz-lite/comments.php:56
+msgid "logged in"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\new-shopbiz-lite/comments.php:56
+msgid "to post a comment"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\new-shopbiz-lite/comments.php:63
+msgid "Name:"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\new-shopbiz-lite/comments.php:64
+msgid "Email:"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\new-shopbiz-lite/comments.php:77
+msgid "Message:"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\new-shopbiz-lite/comments.php:78
+msgid "Logged in as "
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\new-shopbiz-lite/comments.php:78
+msgid " Log out?"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\new-shopbiz-lite/comments.php:80
+msgid "Send Message"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\new-shopbiz-lite/comments.php:83
+msgid "Leave a Reply"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\new-shopbiz-lite/content.php:26
+#: C:\xampp\htdocs\wordpress\wp-content\themes\new-shopbiz-lite/sections/home-blog.php:95
+msgid "by"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\new-shopbiz-lite/content.php:30
+#: C:\xampp\htdocs\wordpress\wp-content\themes\new-shopbiz-lite/templates/fullwidth.php:33
+msgid "Pages:"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\new-shopbiz-lite/footer.php:29
+msgid ""
+"<p>&copy; Copyright 2016 by <a href=\"#\">shopbiz</a>. All Rights Reserved. "
+"Powered by <a href=\" https://wordpress.org/\">WordPress</a></p>"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\new-shopbiz-lite/functions.php:88
+msgid "Top Right menu"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\new-shopbiz-lite/functions.php:89
+msgid "Primary menu"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\new-shopbiz-lite/functions.php:90
+msgid "Footer Menu"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\new-shopbiz-lite/functions.php:157
+msgid "shopbiz service widget"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\new-shopbiz-lite/functions.php:159
+msgid "Shopbiz Service Widget"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\new-shopbiz-lite/functions.php:203
+msgid "Read More"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\new-shopbiz-lite/index.php:25
+msgid "<i class=\"fa fa-angle-left\"></i>"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\new-shopbiz-lite/index.php:26
+msgid "<i class=\"fa fa-angle-right\"></i>"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\new-shopbiz-lite/search.php:37
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\new-shopbiz-lite/search.php:41
+msgid "Not Found"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\new-shopbiz-lite/search.php:43
+msgid "Sorry, Do Not match."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\new-shopbiz-lite/single.php:49
+msgid "By"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\new-shopbiz-lite/inc/ansar/shopbiz-custom-navwalker.php:193
+msgid "Add a menu"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\new-shopbiz-lite/inc/ansar/customize/ta_customize_copyright.php:7
+msgid "Footer Settings"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\new-shopbiz-lite/inc/ansar/customize/ta_customize_copyright.php:11
+msgid "Footer Copyright Settings"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\new-shopbiz-lite/inc/ansar/customize/ta_customize_copyright.php:12
+msgid "This is a Footer section."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\new-shopbiz-lite/inc/ansar/customize/ta_customize_copyright.php:24
+msgid "Hide/Show Copyright Text"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\new-shopbiz-lite/inc/ansar/customize/ta_customize_copyright.php:25
+msgid "Hide/Show Footer Copyright Text"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\new-shopbiz-lite/inc/ansar/customize/ta_customize_copyright.php:34
+msgid ""
+"<p>&copy; Copyright 2016 by <a href=\"#\">shopbiz</a>. All Rights Reserved. "
+"Powered by <a href=\"https://wordpress.org/\">WordPress</a></p>"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\new-shopbiz-lite/inc/ansar/customize/ta_customize_copyright.php:38
+msgid "Copyright text"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\new-shopbiz-lite/inc/ansar/customize/ta_customize_copyright.php:46
+msgid "Social Link"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\new-shopbiz-lite/inc/ansar/customize/ta_customize_copyright.php:57
+msgid "Hide/Show Social Icons"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\new-shopbiz-lite/inc/ansar/customize/ta_customize_copyright.php:58
+msgid "Hide/Show Footer Social Icons"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\new-shopbiz-lite/inc/ansar/customize/ta_customize_copyright.php:69
+msgid "Facebook URL"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\new-shopbiz-lite/inc/ansar/customize/ta_customize_copyright.php:80
+#: C:\xampp\htdocs\wordpress\wp-content\themes\new-shopbiz-lite/inc/ansar/customize/ta_customize_copyright.php:100
+#: C:\xampp\htdocs\wordpress\wp-content\themes\new-shopbiz-lite/inc/ansar/customize/ta_customize_copyright.php:121
+#: C:\xampp\htdocs\wordpress\wp-content\themes\new-shopbiz-lite/inc/ansar/customize/ta_customize_copyright.php:142
+msgid "Open Link New tab/window"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\new-shopbiz-lite/inc/ansar/customize/ta_customize_copyright.php:89
+msgid "Twitter URL"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\new-shopbiz-lite/inc/ansar/customize/ta_customize_copyright.php:109
+msgid "Linkedin URL"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\new-shopbiz-lite/inc/ansar/customize/ta_customize_copyright.php:130
+msgid "Google-plus URL"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\new-shopbiz-lite/inc/ansar/customize/ta_customize_header.php:9
+msgid "Header Settings"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\new-shopbiz-lite/inc/ansar/customize/ta_customize_header.php:13
+msgid "Header Info Details Setting"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\new-shopbiz-lite/inc/ansar/customize/ta_customize_header.php:23
+msgid "Info One:"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\new-shopbiz-lite/inc/ansar/customize/ta_customize_header.php:35
+msgid "Info Two:"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\new-shopbiz-lite/inc/ansar/customize/ta_customize_homepage.php:7
+msgid "Choose Post"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\new-shopbiz-lite/inc/ansar/customize/ta_customize_homepage.php:66
+msgid "Homepage Settings"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\new-shopbiz-lite/inc/ansar/customize/ta_customize_homepage.php:67
+msgid ""
+"If you want homepage like slider, service, callout, news. Firstly create a "
+"page and assign homepage template then set your homepage using reading "
+"setting (Theme Dashboard >> Settings >> Reading), Click a static page "
+"(select below) and select your frontPage template like homePage template and "
+"set your posts blog page. Then click save changes"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\new-shopbiz-lite/inc/ansar/customize/ta_customize_homepage.php:77
+msgid "Slider Setting"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\new-shopbiz-lite/inc/ansar/customize/ta_customize_homepage.php:90
+msgid "Enable Slider Section"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\new-shopbiz-lite/inc/ansar/customize/ta_customize_homepage.php:102
+msgid "Select Post One"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\new-shopbiz-lite/inc/ansar/customize/ta_customize_homepage.php:115
+msgid "Select Post Two"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\new-shopbiz-lite/inc/ansar/customize/ta_customize_homepage.php:128
+msgid "Select Post Three"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\new-shopbiz-lite/inc/ansar/customize/ta_customize_homepage.php:144
+msgid "Service Setting"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\new-shopbiz-lite/inc/ansar/customize/ta_customize_homepage.php:157
+msgid "Enable Service Section"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\new-shopbiz-lite/inc/ansar/customize/ta_customize_homepage.php:170
+msgid "Service Title"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\new-shopbiz-lite/inc/ansar/customize/ta_customize_homepage.php:182
+msgid "Service Subtitle"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\new-shopbiz-lite/inc/ansar/customize/ta_customize_homepage.php:195
+msgid "Callout Setting"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\new-shopbiz-lite/inc/ansar/customize/ta_customize_homepage.php:208
+msgid "Enable Callout Section"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\new-shopbiz-lite/inc/ansar/customize/ta_customize_homepage.php:222
+#: C:\xampp\htdocs\wordpress\wp-content\themes\new-shopbiz-lite/inc/ansar/customize/ta_customize_homepage.php:376
+msgid "Choose Background Image"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\new-shopbiz-lite/inc/ansar/customize/ta_customize_homepage.php:247
+msgid "Callout Title"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\new-shopbiz-lite/inc/ansar/customize/ta_customize_homepage.php:260
+msgid "Callout Description"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\new-shopbiz-lite/inc/ansar/customize/ta_customize_homepage.php:273
+msgid "Button One Title"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\new-shopbiz-lite/inc/ansar/customize/ta_customize_homepage.php:286
+msgid "Button One URL"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\new-shopbiz-lite/inc/ansar/customize/ta_customize_homepage.php:299
+#: C:\xampp\htdocs\wordpress\wp-content\themes\new-shopbiz-lite/inc/ansar/customize/ta_customize_homepage.php:338
+msgid "Open Link New window"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\new-shopbiz-lite/inc/ansar/customize/ta_customize_homepage.php:312
+msgid "Button Two Title"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\new-shopbiz-lite/inc/ansar/customize/ta_customize_homepage.php:325
+msgid "Button Two URL"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\new-shopbiz-lite/inc/ansar/customize/ta_customize_homepage.php:352
+msgid "News & Events Setting"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\new-shopbiz-lite/inc/ansar/customize/ta_customize_homepage.php:364
+msgid "Enable News Section"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\new-shopbiz-lite/inc/ansar/customize/ta_customize_homepage.php:403
+msgid "Hide/Show Blog Meta:- Like author name,categories"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\new-shopbiz-lite/inc/ansar/customize/ta_customize_homepage.php:404
+msgid "Hide / Show Blog Meta:- Like author name,categories"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\new-shopbiz-lite/inc/ansar/customize/ta_customize_homepage.php:419
+msgid "Latest News Title"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\new-shopbiz-lite/inc/ansar/customize/ta_customize_homepage.php:432
+msgid "Latest News Subtitle"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\new-shopbiz-lite/inc/ansar/customize/ta_customize_homepage.php:446
+msgid "Contact Setting"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\new-shopbiz-lite/inc/ansar/customize/ta_customize_pro.php:14
+msgid "https://themeansar.com/themes/shopbiz/"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\new-shopbiz-lite/inc/ansar/customize/ta_customize_pro.php:14
+msgid "Upgrade To Pro"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\new-shopbiz-lite/inc/ansar/customize/ta_customize_pro.php:21
+msgid "Themeansar Importants Links"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\new-shopbiz-lite/inc/ansar/customize/ta_customize_pro.php:32
+#: C:\xampp\htdocs\wordpress\wp-content\themes\new-shopbiz-lite/inc/ansar/customize/ta_customize_pro.php:56
+msgid "Discover shopbiz Pro"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\new-shopbiz-lite/inc/ansar/customize/ta_customize_pro.php:45
+msgid "https://wordpress.org/support/theme/shopbiz-lite/reviews/#new-post/"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\new-shopbiz-lite/inc/ansar/customize/ta_customize_pro.php:45
+msgid "Support Forum"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\new-shopbiz-lite/inc/ansar/customize/ta_customize_pro.php:69
+msgid "https://themeansar.com/help/"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\new-shopbiz-lite/inc/ansar/customize/ta_customize_pro.php:69
+msgid "Online Documenation"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\new-shopbiz-lite/inc/ansar/customize/ta_customize_pro.php:84
+msgid "https://themeansar.com/themes/"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\new-shopbiz-lite/inc/ansar/customize/ta_customize_pro.php:84
+msgid "Explore Our Themes"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\new-shopbiz-lite/inc/ansar/customize/ta_customize_theme_style.php:91
+msgid "Theme Style Palette"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\new-shopbiz-lite/inc/ansar/customize/ta_customize_theme_style.php:96
+msgid "Set Your Header Color"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\new-shopbiz-lite/inc/ansar/customize/ta_customize_theme_style.php:105
+msgid "Enable/Disable Header Custom Color Feature"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\new-shopbiz-lite/inc/ansar/customize/ta_customize_theme_style.php:117
+msgid "Top Bar Background Color"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\new-shopbiz-lite/inc/ansar/customize/ta_customize_theme_style.php:129
+msgid "Top Bar Text Color"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\new-shopbiz-lite/inc/ansar/customize/ta_customize_theme_style.php:153
+msgid "Header Background Color"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\new-shopbiz-lite/inc/ansar/customize/ta_customize_theme_style.php:165
+msgid "Site Title Text Color"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\new-shopbiz-lite/inc/ansar/customize/ta_customize_theme_style.php:190
+msgid "Menu Background Color"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\new-shopbiz-lite/inc/ansar/customize/ta_customize_theme_style.php:202
+msgid "Menu Background Hover/Active Color"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\new-shopbiz-lite/inc/ansar/customize/ta_customize_theme_style.php:214
+msgid "Menu Text Color"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\new-shopbiz-lite/inc/ansar/customize/ta_customize_theme_style.php:226
+msgid "Menu Text Hover/Active Color"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\new-shopbiz-lite/inc/ansar/customize/ta_customize_theme_style.php:238
+msgid "Sub Menu Background Color"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\new-shopbiz-lite/inc/ansar/customize/ta_customize_theme_style.php:251
+msgid "Sub Menu Background Hover color"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\new-shopbiz-lite/inc/ansar/customize/ta_customize_theme_style.php:263
+msgid "Sub Menu Text Color"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\new-shopbiz-lite/inc/ansar/customize/ta_customize_theme_style.php:275
+msgid "Sub Menu Text Hover/Active Color"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\new-shopbiz-lite/inc/ansar/customize/ta_customize_theme_style.php:294
+msgid "Set Your Footer Color"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\new-shopbiz-lite/inc/ansar/customize/ta_customize_theme_style.php:304
+msgid "Enable/Disable Footer Custom Color Feature"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\new-shopbiz-lite/inc/ansar/customize/ta_customize_theme_style.php:317
+msgid "Footer Background Color "
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\new-shopbiz-lite/inc/ansar/customize/ta_customize_theme_style.php:329
+msgid "Footer Widget Heading Color "
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\new-shopbiz-lite/inc/ansar/customize/ta_customize_theme_style.php:341
+msgid "Footer Text Color "
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\new-shopbiz-lite/inc/ansar/customize/ta_customize_theme_style.php:352
+msgid "Footer Text Hover/Active"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\new-shopbiz-lite/inc/ansar/customize/ta_customize_theme_style.php:364
+msgid "Footer Copyright Background Color "
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\new-shopbiz-lite/inc/ansar/customize/ta_customize_theme_style.php:376
+msgid "Footer Copyright Text Color "
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\new-shopbiz-lite/inc/ansar/themeinfo/themeinfo-detail.php:51
+msgid "Action failed. Please refresh the page and retry."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\new-shopbiz-lite/inc/ansar/themeinfo/themeinfo-detail.php:55
+msgid "Cheatin&#8217; huh?"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\new-shopbiz-lite/inc/ansar/themeinfo/themeinfo-detail.php:68
+msgid "Dismiss"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\new-shopbiz-lite/inc/ansar/widget/shopbiz-service.php:13
+msgid "shopbiz - Service Widget"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\new-shopbiz-lite/inc/ansar/widget/shopbiz-service.php:14
+msgid "Service Section Widget"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\new-shopbiz-lite/inc/ansar/widget/shopbiz-service.php:68
+msgid "style"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\new-shopbiz-lite/inc/ansar/widget/shopbiz-service.php:74
+msgid "Service With image"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\new-shopbiz-lite/inc/ansar/widget/shopbiz-service.php:75
+msgid "Service With Icon"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\new-shopbiz-lite/inc/ansar/widget/shopbiz-service.php:81
+msgid "Select Pages:"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\new-shopbiz-lite/inc/ansar/widget/shopbiz-service.php:103
+msgid "Service Icon"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\new-shopbiz-lite/inc/ansar/widget/shopbiz-service.php:104
+msgid "fa fa-check"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\new-shopbiz-lite/inc/ansar/widget/shopbiz-service.php:109
+msgid "Hide Featured Image"
+msgstr ""

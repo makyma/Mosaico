@@ -1,0 +1,525 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: bizwhoop\n"
+"POT-Creation-Date: 2017-12-05 09:01+0530\n"
+"PO-Revision-Date: 2017-12-05 09:01+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: C:\\xampp\\htdocs\\wordpress9\\wp-content\\themes"
+"\\bizwhoop\n"
+"X-Poedit-SearchPath-0: C:\\xampp\\htdocs\\wordpress9\\wp-content\\themes"
+"\\bizwhoop\n"
+
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\bizwhoop/404.php:15
+msgid "404"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\bizwhoop/404.php:27
+msgid "4"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\bizwhoop/404.php:30
+msgid "Go Back"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\bizwhoop/content.php:38
+msgid "by"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\bizwhoop/content.php:42
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\bizwhoop/templates/fullwidth.php:32
+msgid "Pages:"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\bizwhoop/functions.php:79
+msgid "Primary menu"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\bizwhoop/functions.php:178
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\bizwhoop/functions.php:196
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\bizwhoop/functions.php:228
+msgid "Read More"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\bizwhoop/header.php:79
+msgid "Footer Social Links Menu"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\bizwhoop/header.php:123
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\bizwhoop/inc/ansar/customize/bizwhoop_customize_header.php:62
+msgid "fa-map-marker"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\bizwhoop/header.php:129
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\bizwhoop/inc/ansar/customize/bizwhoop_customize_header.php:75
+msgid "1240 Park Avenue"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\bizwhoop/header.php:133
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\bizwhoop/inc/ansar/customize/bizwhoop_customize_header.php:89
+msgid "NYC, USA 256323"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\bizwhoop/header.php:143
+msgid "fa-clock-o"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\bizwhoop/header.php:149
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\bizwhoop/inc/ansar/customize/bizwhoop_customize_header.php:124
+msgid "7:30 AM - 7:30 PM"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\bizwhoop/header.php:153
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\bizwhoop/inc/ansar/customize/bizwhoop_customize_header.php:137
+msgid "Monday to Saturday"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\bizwhoop/header.php:163
+msgid "fa-phone"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\bizwhoop/header.php:169
+msgid "+ 007 548 58"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\bizwhoop/header.php:173
+msgid "Hot Line Number"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\bizwhoop/header.php:183
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\bizwhoop/inc/ansar/customize/bizwhoop_customize_header.php:205
+msgid "Get Quote"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\bizwhoop/header.php:184
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\bizwhoop/inc/ansar/customize/bizwhoop_customize_homepage.php:300
+msgid "#"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\bizwhoop/header.php:185
+msgid "true"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\bizwhoop/search.php:38
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\bizwhoop/search.php:42
+msgid "Not Found"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\bizwhoop/search.php:44
+msgid "Sorry, Do Not match."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\bizwhoop/searchform.php:6
+msgid "Search"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\bizwhoop/single.php:53
+msgid "By"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\bizwhoop/bizwhoop-info/theme-info.php:83
+msgid "Hooray! There are no required actions for you right now."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\bizwhoop/bizwhoop-info/theme-info.php:118
+msgid "View Theme Info"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\bizwhoop/bizwhoop-info/sections/homepage.php:13
+msgid ""
+"For those who are having issues getting the homepage to look like the  demo, "
+"here's how to do it step-by-step after you have installed and activated the "
+"Proficicney theme."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\bizwhoop/bizwhoop-info/sections/homepage.php:15
+msgid "1. Go Pages -> Add New -> Create a page named Home."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\bizwhoop/bizwhoop-info/sections/homepage.php:16
+msgid "2. Select Homepage template refer screenshot image."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\bizwhoop/bizwhoop-info/sections/homepage.php:17
+msgid "3. Publish the Page."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\bizwhoop/bizwhoop-info/sections/homepage.php:18
+msgid ""
+"4. Go to Appearance -> Customize -> Static Front Page Or Go to Settings >> "
+"Reading >> A static page >>  Front page >> select home page template."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\bizwhoop/bizwhoop-info/sections/homepage.php:19
+msgid "5. Select A static page"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\bizwhoop/bizwhoop-info/sections/homepage.php:20
+msgid "6. Under  Front Page, select Home."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\bizwhoop/inc/ansar/breadcrumb.php:25
+msgid "Archive by category"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\bizwhoop/inc/ansar/breadcrumb.php:28
+msgid "Search results for"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\bizwhoop/inc/ansar/breadcrumb.php:86
+msgid "Posts tagged"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\bizwhoop/inc/ansar/breadcrumb.php:91
+msgid "Articles posted by"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\bizwhoop/inc/ansar/breadcrumb.php:94
+msgid "Error 404"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\bizwhoop/inc/ansar/breadcrumb.php:99
+msgid "Page"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\bizwhoop/inc/ansar/customize/bizwhoop_customize_copyright.php:7
+msgid "Footer Settings"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\bizwhoop/inc/ansar/customize/bizwhoop_customize_copyright.php:12
+msgid "Social Link"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\bizwhoop/inc/ansar/customize/bizwhoop_customize_copyright.php:23
+msgid "Facebook URL"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\bizwhoop/inc/ansar/customize/bizwhoop_customize_copyright.php:34
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\bizwhoop/inc/ansar/customize/bizwhoop_customize_copyright.php:55
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\bizwhoop/inc/ansar/customize/bizwhoop_customize_copyright.php:77
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\bizwhoop/inc/ansar/customize/bizwhoop_customize_copyright.php:99
+msgid "Open Link New tab/window"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\bizwhoop/inc/ansar/customize/bizwhoop_customize_copyright.php:44
+msgid "Twitter URL"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\bizwhoop/inc/ansar/customize/bizwhoop_customize_copyright.php:65
+msgid "Linkedin URL"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\bizwhoop/inc/ansar/customize/bizwhoop_customize_copyright.php:87
+msgid "Google-plus URL"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\bizwhoop/inc/ansar/customize/bizwhoop_customize_header.php:7
+msgid "Header Settings"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\bizwhoop/inc/ansar/customize/bizwhoop_customize_header.php:11
+msgid "Header Top Bar Setting"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\bizwhoop/inc/ansar/customize/bizwhoop_customize_header.php:22
+msgid "Hide/Show Topbar"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\bizwhoop/inc/ansar/customize/bizwhoop_customize_header.php:30
+msgid "<a><i class=\"fa fa-clock-o \"></i>Open-Hours:10 am to 7pm</a>"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\bizwhoop/inc/ansar/customize/bizwhoop_customize_header.php:35
+msgid "Info one"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\bizwhoop/inc/ansar/customize/bizwhoop_customize_header.php:42
+msgid ""
+"<a href=\"mailto:info@themeansar.com\" title=\"Mail Me\"><i class=\"fa fa-"
+"envelope\"></i> info@themeansar.com</a>"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\bizwhoop/inc/ansar/customize/bizwhoop_customize_header.php:47
+msgid "Info two"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\bizwhoop/inc/ansar/customize/bizwhoop_customize_header.php:55
+msgid "Header Widget One Setting"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\bizwhoop/inc/ansar/customize/bizwhoop_customize_header.php:68
+msgid "One Icon"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\bizwhoop/inc/ansar/customize/bizwhoop_customize_header.php:81
+msgid "One Title"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\bizwhoop/inc/ansar/customize/bizwhoop_customize_header.php:94
+msgid "One Description"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\bizwhoop/inc/ansar/customize/bizwhoop_customize_header.php:102
+msgid "Header Widget Two Setting"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\bizwhoop/inc/ansar/customize/bizwhoop_customize_header.php:115
+msgid "Two Icon"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\bizwhoop/inc/ansar/customize/bizwhoop_customize_header.php:128
+msgid "Two Title"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\bizwhoop/inc/ansar/customize/bizwhoop_customize_header.php:141
+msgid "Two Description"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\bizwhoop/inc/ansar/customize/bizwhoop_customize_header.php:149
+msgid "Header Widget Three Setting"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\bizwhoop/inc/ansar/customize/bizwhoop_customize_header.php:162
+msgid "Three Icon"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\bizwhoop/inc/ansar/customize/bizwhoop_customize_header.php:175
+msgid "Three Title"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\bizwhoop/inc/ansar/customize/bizwhoop_customize_header.php:188
+msgid "Three Description"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\bizwhoop/inc/ansar/customize/bizwhoop_customize_header.php:196
+msgid "Header Widget Four Setting"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\bizwhoop/inc/ansar/customize/bizwhoop_customize_header.php:209
+msgid "Four Label"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\bizwhoop/inc/ansar/customize/bizwhoop_customize_header.php:221
+msgid "Four Link"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\bizwhoop/inc/ansar/customize/bizwhoop_customize_header.php:233
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\bizwhoop/inc/ansar/customize/bizwhoop_customize_homepage.php:320
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\bizwhoop/inc/ansar/customize/bizwhoop_customize_homepage.php:362
+msgid "Open Link New window"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\bizwhoop/inc/ansar/customize/bizwhoop_customize_homepage.php:7
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\bizwhoop/inc/ansar/customize/bizwhoop_customize_homepage.php:14
+msgid "Choose Page"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\bizwhoop/inc/ansar/customize/bizwhoop_customize_homepage.php:25
+msgid "Frontpage Section Settings"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\bizwhoop/inc/ansar/customize/bizwhoop_customize_homepage.php:35
+msgid "Slider Setting"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\bizwhoop/inc/ansar/customize/bizwhoop_customize_homepage.php:50
+msgid "Enable Slider Section"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\bizwhoop/inc/ansar/customize/bizwhoop_customize_homepage.php:62
+msgid "Select Page One"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\bizwhoop/inc/ansar/customize/bizwhoop_customize_homepage.php:75
+msgid "Select Page Two"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\bizwhoop/inc/ansar/customize/bizwhoop_customize_homepage.php:88
+msgid "Select Page Three"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\bizwhoop/inc/ansar/customize/bizwhoop_customize_homepage.php:102
+msgid "Service Setting"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\bizwhoop/inc/ansar/customize/bizwhoop_customize_homepage.php:114
+msgid "Enable Service Section"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\bizwhoop/inc/ansar/customize/bizwhoop_customize_homepage.php:127
+msgid "Service Title"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\bizwhoop/inc/ansar/customize/bizwhoop_customize_homepage.php:139
+msgid "Service Subtitle"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\bizwhoop/inc/ansar/customize/bizwhoop_customize_homepage.php:152
+msgid "Select Service One"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\bizwhoop/inc/ansar/customize/bizwhoop_customize_homepage.php:165
+msgid "Select Service Two"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\bizwhoop/inc/ansar/customize/bizwhoop_customize_homepage.php:178
+msgid "Select Service Three"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\bizwhoop/inc/ansar/customize/bizwhoop_customize_homepage.php:192
+msgid "Callout Setting"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\bizwhoop/inc/ansar/customize/bizwhoop_customize_homepage.php:205
+msgid "Enable Callout Section"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\bizwhoop/inc/ansar/customize/bizwhoop_customize_homepage.php:223
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\bizwhoop/inc/ansar/customize/bizwhoop_customize_homepage.php:409
+msgid "Choose Background Image"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\bizwhoop/inc/ansar/customize/bizwhoop_customize_homepage.php:234
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\bizwhoop/inc/ansar/customize/bizwhoop_customize_homepage.php:435
+msgid "Text Color"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\bizwhoop/inc/ansar/customize/bizwhoop_customize_homepage.php:249
+msgid "Callout Text Align"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\bizwhoop/inc/ansar/customize/bizwhoop_customize_homepage.php:258
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\bizwhoop/sections/home-callout.php:27
+msgid "ready to work with <span>you</span>"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\bizwhoop/inc/ansar/customize/bizwhoop_customize_homepage.php:264
+msgid "Callout Title"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\bizwhoop/inc/ansar/customize/bizwhoop_customize_homepage.php:278
+msgid "Callout Description"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\bizwhoop/inc/ansar/customize/bizwhoop_customize_homepage.php:286
+msgid "Buy Now!"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\bizwhoop/inc/ansar/customize/bizwhoop_customize_homepage.php:292
+msgid "Button One Title"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\bizwhoop/inc/ansar/customize/bizwhoop_customize_homepage.php:306
+msgid "Button One URL"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\bizwhoop/inc/ansar/customize/bizwhoop_customize_homepage.php:328
+msgid "Know More"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\bizwhoop/inc/ansar/customize/bizwhoop_customize_homepage.php:334
+msgid "Button Two Title"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\bizwhoop/inc/ansar/customize/bizwhoop_customize_homepage.php:348
+msgid "Button Two URL"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\bizwhoop/inc/ansar/customize/bizwhoop_customize_homepage.php:376
+msgid "News & Events Setting"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\bizwhoop/inc/ansar/customize/bizwhoop_customize_homepage.php:390
+msgid "Enable News Section"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\bizwhoop/inc/ansar/customize/bizwhoop_customize_homepage.php:422
+msgid "Choose Background Overlay Color"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\bizwhoop/inc/ansar/customize/bizwhoop_customize_homepage.php:449
+msgid "Hide/Show Blog Meta:- Like author name,categories"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\bizwhoop/inc/ansar/customize/bizwhoop_customize_homepage.php:463
+msgid "Latest News Title"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\bizwhoop/inc/ansar/customize/bizwhoop_customize_homepage.php:477
+msgid "Latest News Subtitle"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\bizwhoop/inc/ansar/customize/bizwhoop_customize_homepage.php:492
+msgid "Select Number of Post"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\bizwhoop/inc/ansar/customize/bizwhoop_customize_homepage.php:494
+msgid "3"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\bizwhoop/inc/ansar/customize/bizwhoop_customize_homepage.php:494
+msgid "6"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\bizwhoop/inc/ansar/customize/bizwhoop_customize_homepage.php:494
+msgid "9"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\bizwhoop/inc/ansar/customize/bizwhoop_customize_homepage.php:494
+msgid "12"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\bizwhoop/inc/ansar/customize/bizwhoop_customize_homepage.php:494
+msgid "15"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\bizwhoop/inc/ansar/customize/bizwhoop_customize_homepage.php:494
+msgid "18"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\bizwhoop/inc/ansar/customize/bizwhoop_customize_homepage.php:494
+msgid "21"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\bizwhoop/inc/ansar/customize/bizwhoop_customize_homepage.php:500
+msgid "View More"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\bizwhoop/inc/ansar/customize/bizwhoop_customize_homepage.php:506
+msgid "Button label"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\bizwhoop/inc/ansar/customize/bizwhoop_customize_homepage.php:520
+msgid "Button Link"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\bizwhoop/inc/ansar/customize/bizwhoop_customize_homepage.php:534
+msgid "Open link New window or Tab"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\bizwhoop/sections/home-blog.php:32
+msgid "Latest <span>News</span>"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\bizwhoop/sections/home-blog.php:38
+msgid ""
+"laoreet ipsum eu laoreet. ugiignissimat Vivamus dignissim feugiat erat sit "
+"amet convallis."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress9\wp-content\themes\bizwhoop/sections/home-callout.php:34
+msgid ""
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean dolor "
+"tellus, egestas id elit in, vestibulum imperdiet ligula. Sed cursus velit "
+"sem, ut ultrices risus tincidunt a. Nullam id neque ipsum. Duis posuere "
+"fermentum purus, eget vehicula est accumsan maximus"
+msgstr ""
