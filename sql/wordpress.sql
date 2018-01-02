@@ -3,7 +3,7 @@
 -- http://www.phpmyadmin.net
 --
 -- Host: 127.0.0.1
--- Creato il: Gen 02, 2018 alle 23:23
+-- Creato il: Gen 02, 2018 alle 23:25
 -- Versione del server: 10.1.19-MariaDB
 -- Versione PHP: 7.0.9
 
@@ -104,8 +104,8 @@ CREATE TABLE `wp_options` (
 --
 
 INSERT INTO `wp_options` (`option_id`, `option_name`, `option_value`, `autoload`) VALUES
-(1, 'siteurl', 'http://mosaico', 'yes'),
-(2, 'home', 'http://mosaico', 'yes'),
+(1, 'siteurl', 'http://localhost/mosaico', 'yes'),
+(2, 'home', 'http://localhost/mosaico', 'yes'),
 (3, 'blogname', 'Mosaico Digitale', 'yes'),
 (4, 'blogdescription', '', 'yes'),
 (5, 'users_can_register', '0', 'yes'),
