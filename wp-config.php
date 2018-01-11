@@ -82,7 +82,7 @@ $table_prefix  = 'wp_';
 define('WP_DEBUG', false);
 
 /* Finito, interrompere le modifiche! Buon blogging. */
-
+define( 'WP_MEMORY_LIMIT', '96M' );
 /** Path assoluto alla directory di WordPress. */
 if ( !defined('ABSPATH') )
 	define('ABSPATH', dirname(__FILE__) . '/');
