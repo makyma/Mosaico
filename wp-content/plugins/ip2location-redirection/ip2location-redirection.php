@@ -3,7 +3,7 @@
  * Plugin Name: IP2Location Redirection
  * Plugin URI: http://ip2location.com/tutorials/wordpress-ip2location-redirection
  * Description: Redirect visitors by their country.
- * Version: 1.9.2
+ * Version: 1.9.3
  * Author: IP2Location
  * Author URI: http://www.ip2location.com
  */

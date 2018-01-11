@@ -4,7 +4,7 @@ Donate link: http://www.ip2location.com
 Tags: ip2location, country redirection, geolocation, targeted content, ip address, 301, 302, country, ipv4, ipv6
 Requires at least: 2.0
 Tested up to: 4.9
-Stable tag: 1.9.2
+Stable tag: 1.9.3
 
 Redirects visitors to a blog page or a predefined URL based on their country geolocated using IP address.
 
@@ -56,6 +56,7 @@ Send us email at support@ip2location.com
 1. Redirect visitor from Nigeria to http://google.com.
 
 == Changelog ==
+* 1.9.3 Fixed rule validation bugs.
 * 1.9.2 Fixed bugs.
 * 1.9.1 Minor changes.
 * 1.9.0 IP2Location database update changed to use download token.
